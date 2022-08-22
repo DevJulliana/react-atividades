@@ -1,2 +1,0 @@
-# react-atividades
-Módulo - React
